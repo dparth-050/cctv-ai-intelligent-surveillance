@@ -2,7 +2,8 @@
 
 An AI-powered video surveillance and investigation platform designed to analyze live camera streams and recorded CCTV footage using computer vision, object detection, and object tracking.
 
-**Developed by:** Krunal Prajapati.      ** Parth Dodiya
+**Developed by:** Krunal Prajapati
+& Parth Dodiya
   
 **College:** L.D. College of Engineering, Ahmedabad, Gujarat  
 **Department:** Artificial Intelligence and Machine Learning  
